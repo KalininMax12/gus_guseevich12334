@@ -1,0 +1,14 @@
+{
+    "ip": "BlinchikMC.aternos.me",
+    "port": 29771,
+    "name": "gus_guseevich12334",
+    "auto-night-skip": "false",
+    "join-msg": "hello",
+    "join-msg-on": "false",
+    "custom-message-enabled": "false",
+    "custom-message-1": "subscribe to LION BOY",
+    "custom-message-2": "subscribe to LION BOY",
+    "login-enabled": "true",
+    "register-cmd": "/register 12345678 12345678",
+    "login-cmd": "/login 12345678"
+}
